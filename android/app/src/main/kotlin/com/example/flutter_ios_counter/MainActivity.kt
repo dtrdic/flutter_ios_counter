@@ -1,4 +1,4 @@
-package X8NNQ9CYL2.io.codemagic.fastly
+package io.codemagic.dtrdic9
 
 import io.flutter.embedding.android.FlutterActivity
 
