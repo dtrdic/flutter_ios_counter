@@ -39,7 +39,7 @@ dependencies:
   repository: 
     git:
       url: git@github.com:dtrdic/flutterWebApp.git
-      ref: test private repository
+      ref: flutterWebApp
 
 dev_dependencies:
   flutter_test:
