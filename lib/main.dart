@@ -6,7 +6,7 @@ void main() {
 
 class MyApp extends StatelessWidget {
   const MyApp({super.key});
-//comment broj 1
+//comment broj2
   // This widget is the root of your application.
   @override
   Widget build(BuildContext context) {
