@@ -8,7 +8,6 @@ class MyApp extends StatelessWidget {
   const MyApp({super.key});
 //burek6123123d4d5
 
-//jos jedan2
 //test1ckij13
 //pile32
 //test122
