@@ -6,7 +6,6 @@ void main() {
 
 class MyApp extends StatelessWidget {
   const MyApp({super.key});
-//burek6123123d4d5
 
 //pile32
 //test122
