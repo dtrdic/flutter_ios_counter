@@ -1,4 +1,4 @@
-appId: com.example.counter_sample_project
+appId: io.codemagic.dtrdic9
 ---
 - clearState
 - launchApp
